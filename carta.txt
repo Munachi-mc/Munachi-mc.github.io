@@ -1,6 +1,10 @@
 Esta es una carta conidencial. 
 
+<<<<<<< HEAD
 
 
 
 lo que se dice en master se queda en master
+=======
+esta es una publicacion para cabecita
+>>>>>>> cabecita
