@@ -4,6 +4,8 @@ body{
     
 }
 
+
+
 .wrab{
     border: solid 2px red;
     width: 500px;
@@ -11,4 +13,13 @@ body{
     align-content: center;
     margin: auto;
     padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.titulo{
+    color: blue;
+    font-family: 'Lobster', cursive;
+
 }
