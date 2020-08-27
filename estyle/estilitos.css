@@ -21,5 +21,7 @@ body{
 .titulo{
     color: blue;
     font-family: 'Lobster', cursive;
+    display: flex;
+    align-items: center;
 
 }
